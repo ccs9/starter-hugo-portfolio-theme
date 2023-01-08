@@ -9,8 +9,8 @@ superuser: true
 role: 'Producer & Project Manager'
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+  # icon: ☕️
 
 # Organizations/Affiliations
 #organizations:
@@ -46,7 +46,7 @@ social:
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: fas
     link: https://twitter.com/wowchemy
   - icon: google-docs
     icon_pack: fab
