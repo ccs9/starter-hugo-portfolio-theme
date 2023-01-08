@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: linkedin
-    icon_pack: fas
+  - icon: facebook
+    icon_pack: fab
     link: https://twitter.com/wowchemy
   - icon: google-docs
     icon_pack: fab
