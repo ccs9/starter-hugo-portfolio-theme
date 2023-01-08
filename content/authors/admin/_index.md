@@ -48,7 +48,7 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: google-docs
+  - icon: docs
     icon_pack: fab
     link: https://instagram.com/geocushen
 # Uncomment below for Github link
